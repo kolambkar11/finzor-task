@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "img": "/img/cody-fisher.png",
+        "firstName": "Cody Fisher",
+        "feedBack": " As a Freelancer, managing invoices and chasing payments was a constant headache. Now, with automated and secure payment I am getting paid on time, every time."
+    },
+    
+    {
+        "id": 2,
+        "img": "/img/cody-fisher.png",
+        "firstName": "Cody Fisher",
+        "feedBack": " As a Freelancer, managing invoices and chasing payments was a constant headache. Now, with automated and secure payment I am getting paid on time, every time."
+    },
+    {
+        "id": 3,
+        "img": "/img/marvin-mckinney.png",
+        "firstName": "Marvin McKinney",
+        "feedBack": "Since switching to Swift Revel, I finally have peace of mind regarding my business finances. With their secure platform, I trust my data's protection completely.  "
+    },
+    {
+        "id": 4,
+        "img": "/img/jacob-jones.png",
+        "firstName": "Jacob Jones",
+        "feedBack": "As a budding startup, we sought a financial solution that was simple, secure, and scalable. Swift Revel checked all the boxes, enabling focus on growth.  "
+    },
+    {
+        "id": 5,
+        "img": "/img/theresa-webb.png",
+        "firstName": "Theresa Webb",
+        "feedBack": "Swift Revel empowers me to manage my business finances with confidence and ease. Their integrated tax solutions ensure I'm always tax compliant."
+    },
+    {
+        "id": 6,
+        "img": "/img/ronald-richards.png",
+        "firstName": "Ronald Richards",
+        "feedBack": "We needed a payment gateway that could handle our diverse customer base. Swift Revel offers a wide range of payment options, making it easy for our clients to pay.  "
+    },{
+        "id": 7,
+        "img": "/img/cody-fisher.png",
+        "firstName": "Cody Fisher",
+        "feedBack": " As a Freelancer, managing invoices and chasing payments was a constant headache. Now, with automated and secure payment I am getting paid on time, every time."
+    }    
+]

@@ -1,0 +1,39 @@
+
+.restart-btn{
+    background: #2c2c2c;
+    padding: 10px;
+    
+    border-radius: 15px;
+}
+
+.keyboard-alphabet{
+    color:#808080;
+    margin-right: 5px;
+}
+
+.restart-rotate-btn{
+    display: inline-block; 
+    transition: transform 0.3s ease; 
+}
+.restart-rotate-btn:hover{
+    transform: translateX(-2px); 
+}
+
+.restart-container {
+    display: flex; 
+    align-items: center; 
+    background: #2C2C2C;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.refresh-icon {
+    display: inline-block; 
+    transition: transform 0.3s ease; 
+    margin-right: 5px; 
+}
+
+
+.restart-container:hover .refresh-icon {
+    transform: translateX(-2px); 
+}
